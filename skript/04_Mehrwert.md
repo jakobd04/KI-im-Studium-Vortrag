@@ -1,0 +1,7 @@
+- Viele fangen aus Bequemlichkeit und den Gründen aus [Neugier.md] an immer direkt zur KI zu greifen
+- Die Problemstellung wird teilweise einfach reinkopiert und "Erkläre mir das hier"
+- Könntet ihr später bei der Arbeit überhaupt noch was anderes?
+- Was ist die Aufgabe dann noch?
+- Glaubt ihr, dass man damit in 3 oder mehr Jahren noch einen Job bekommt?
+- Mehrwert entsteht mit KI, weil ihr Designentscheidungen treffen könnt: Lieber Option A statt B, weil...
+- (Mir ist noch etwas unklar, was genau man hier alles reinschreiben kann ohne zu sehr Richtung fear mongering zu driften)
