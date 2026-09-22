@@ -2,12 +2,13 @@
 1. Einleitung durch repräsentative Umfragen in der „Vorlesung“. Welche der Studenten haben bereits ‚KI‘ genutzt, sprich: auf LLMs zurückgegriffen.
 	Die Intuition rät, dass ein Großteil des Jahrgangs wahrscheinlich bereits im Abitur – und davor! – auf LLMs zurückgegriffen haben müsste. Sollte sich dann in der tatsächlichen Umfrage bestätigen. Gerade, wenn die kurze Umfrage zugunsten der LLM-Nutzung ausfällt, haben wir einen „Bildungsauftrag“ zu leisten. 
 	Möglicherweise ließen sich noch repräsentative Umfragen, die in letzter Zeit durchgeführt worden sind, von diversen Universitäten einbinden, z. B. als Graphen in der Präsentation (Vergleichswert ziehen – unsere Vorlesung vs. eigentliche Umfragen). 
+	Umfrage zu Berührungspunkten mit der Informatik; Programmiererfahrung, usw. Wichtig für später, wenn es darum gehen soll, dass man den Output kontrolliert.
 
 2. Naive KI Nutzung stört einen Großteil der Lerneffekte
     Beispiel: Studenten mit KI vs. Google vs. Nichts - Warum? 
     Psychologie dahinter?
 	Auch: Neue Umfrage zu Lerneffekten bei chinesischen Studenten
-    Roman?
+    Roman
 
 3. Neugier im Studium erhalten, weil man alle möglichen spontanen Ideen und Gedanken zu einem Thema durchspielen kann, was früher nicht so leicht war
     Beispiel: ???

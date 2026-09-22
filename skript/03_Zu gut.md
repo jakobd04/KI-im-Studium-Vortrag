@@ -1,5 +1,6 @@
 - Man hat ein Problem und lässt sich von KI eine Lösung schreiben, die einwandfrei funktioniert
-- Man bemerkt keine Probleme, also kann man sich das checken sparen
+- Man bemerkt keine Probleme, also kann man sich das checken sparen. Problematisch vor allem, wenn man es selbst nicht checken kann, weil man ein blutiger Anfänger ist 
+
 - ABER hat die KI Dinge beachtet, an die ich selber nicht gedacht habe, weil ich direkt Claude die Zügel in die Hand gebe?
 - Gibt es eventuell Probleme, die nicht am Output ersichtlich sind?
 - Gibt es viel "cleanere" Ansätze, die man nie in betracht gezogen hat, weil die "leichte" Lösung ZU SCHNELL zusammengeklatscht wurde?
