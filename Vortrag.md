@@ -46,10 +46,10 @@ Notes:
 
 **Aber:** <!-- .element: class="fragment fade-in" -->
 - Oftmals gibt es interessante Ausschnitte <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Durch "Claude erklär mir..." geht das verloren <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Durch „Claude erklär mir…“ geht das verloren <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Notes:
-- Besonders, wenn man in der Schule nicht "Lernen" gelernt hat anfällig
+- Besonders, wenn man in der Schule nicht „Lernen“ gelernt hat anfällig
 
 ---
 
@@ -88,7 +88,7 @@ Auch hier: <!-- .element: class="fragment fade-in" -->
 **Aber:** <!-- .element: class="fragment fade-in" -->
 - Weiß die KI, welche Mittel gerade erlaubt sind? <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Nimmt KI unerwünschte Nebeneffekte inkauf? <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Gibt es unbeachtete "saubere" Lösungen? <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Gibt es unbeachtete „saubere“ Lösungen? <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 
 Notes:
