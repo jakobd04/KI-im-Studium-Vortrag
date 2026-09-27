@@ -140,7 +140,8 @@ Passt schon so oder? <!-- .element: class="fragment fade-in-then-semi-out" -->
 <!-- .slide: data-auto-animate="true" -->
 **Aber was passiert eigentlich im Hintergrund?**
 
-- [rsync](https://rsync.samba.org/) muss irgendwie erkennen, ob neue Dateien da sind
+- [rsync](https://rsync.samba.org/) muss irgendwie erkennen, ob neue Dateien da sind 
+<!-- .element: class="fragment fade-in-then-semi-out" -->
 $\Rightarrow$ Auch ein Scan ohne neue Dateien kostet Rechenleistung
 <!-- .element: class="fragment fade-in-then-semi-out" -->
 
@@ -151,11 +152,27 @@ $\Rightarrow$ Auch ein Scan ohne neue Dateien kostet Rechenleistung
 <!-- .slide: data-auto-animate="true" -->
 **Ergebnis?**
 
-- Ein naiver while-Loop lastet evtl. einen gesamten CPU-Kern des Servers aus <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Die KI hat nichts falsch gemacht <!-- .element: class="fragment fade-in-then-semi-out" -->
-- An potentiell unerwünschte Nebeneffekte denken ist eure Aufgabe <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Eine Verzögerung von je 30s wäre akzeptabel gewesen <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Naiver Loop lastet evtl. einen Server CPU-Kern aus <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Die KI hat aber gemacht, was gefragt war <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Ihr müsst selber an alle Nebeneffekte denken <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+**Lösungen?** <!-- .element: class="fragment fade-in" -->
+- Je 30s Verzögerung wäre akzeptabel gewesen <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Evtl. bietet die Cloud einen besseren Mechanismus an (bspw. Benachrichtigung bei Änderung) <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Notes:
 - Mittlerweile denkt die KI selber an manche klassische unerwünschte Nebeneffekte wie diesen
 - Aber das Problem Schema existiert weiterhin
+
+---
+
+**Beispiel Lernphase**
+
+Offen?
+
+---
+
+### Eigenleistung
+
+---
+
