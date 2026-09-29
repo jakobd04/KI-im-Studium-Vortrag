@@ -2,10 +2,6 @@
 
 ---
 
-### Outline
-
----
-
 ### Lernpsychologie
 
 ---
@@ -31,7 +27,7 @@ Notes:
 ---
 
 <!-- .slide: data-auto-animate="true"-->
->Im Studium mache ich endlich nur noch, was mich interessiert
+>Im Studium beschäftige ich mich endlich mit Themen, die mich interessieren
 >
 > — Viele von uns
 
@@ -56,7 +52,7 @@ Notes:
 <!-- .slide: data-auto-animate="true" -->
 **Statt die intrinsische Motivation zu ersticken:**
 - Neugier und Interesse nachgehen <!-- .element: class="fragment fade-in-then-semi-out" -->
-- KI macht selbständige Exkurse zugänglicher <!-- .element: class="fragment fade-in-then-semi-out" -->
+- KI macht selbstständige Exkurse zugänglicher <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Kann erfrischend sein und sich langfristig auszahlen <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Auch hier: <!-- .element: class="fragment fade-in" -->
@@ -69,7 +65,7 @@ Auch hier: <!-- .element: class="fragment fade-in" -->
 **Die Art der KI Nutzung macht den Unterschied!**
 
 - Nicht einfach Antworten akzeptieren <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Erst wenn man wirklich verstanden hat "Warum oder Warum nicht" <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Erst wenn man wirklich verstanden hat „Warum?“ oder „Warum nicht?“ <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 ---
 
@@ -115,9 +111,9 @@ Euer Team benutzt einen Cloud Ordner & ihr wollt neu hochgeladene Dateien der Mi
 rsync -a cloud.com/team_a/files /home/user/work/team_a
 ```
 <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="2" -->
-- [rsync](https://rsync.samba.org/) erkennt automatisch neue Dateien in der Cloud und downloaded sie
+- [rsync](https://rsync.samba.org/) läuft einmal und erkennt was lokal fehlt
 <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Klappt wunderbar also: „Claude mach, dass das immer sofort lädt...“ <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Klappt wunderbar also: „Claude mach, dass das immer läuft...“ <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 ---
 
@@ -128,7 +124,6 @@ rsync -a cloud.com/team_a/files /home/user/work/team_a
 while True:
     rsync -a cloud.com/team_a/files /home/user/work/team_a
 ```
-<!-- .element: class="fragment fade-in-then-semi-out" -->
 - Team Lädt neue Dateien hoch $\Rightarrow$ landen direkt auf dem eigenen Laptop <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Passt schon so oder? <!-- .element: class="fragment fade-in-then-semi-out" -->
@@ -140,7 +135,7 @@ Passt schon so oder? <!-- .element: class="fragment fade-in-then-semi-out" -->
 <!-- .slide: data-auto-animate="true" -->
 **Aber was passiert eigentlich im Hintergrund?**
 
-- [rsync](https://rsync.samba.org/) muss irgendwie erkennen, ob neue Dateien da sind 
+- [rsync](https://rsync.samba.org/) muss irgendwie cloud und lokal abgleichen
 <!-- .element: class="fragment fade-in-then-semi-out" -->
 $\Rightarrow$ Auch ein Scan ohne neue Dateien kostet Rechenleistung
 <!-- .element: class="fragment fade-in-then-semi-out" -->
@@ -157,7 +152,7 @@ $\Rightarrow$ Auch ein Scan ohne neue Dateien kostet Rechenleistung
 - Ihr müsst selber an alle Nebeneffekte denken <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 **Lösungen?** <!-- .element: class="fragment fade-in" -->
-- Je 30s Verzögerung wäre akzeptabel gewesen <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Etwas Verzögerung wäre akzeptabel gewesen <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Evtl. bietet die Cloud einen besseren Mechanismus an (bspw. Benachrichtigung bei Änderung) <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Notes:
@@ -166,13 +161,48 @@ Notes:
 
 ---
 
-**Beispiel Lernphase**
-
-Offen?
-
----
-
-### Eigenleistung
+<!-- .slide: data-auto-animate="true" -->
+### Valide Nutzung
 
 ---
 
+<!-- .slide: data-auto-animate="true" -->
+### Valide Nutzung
+
+- KI kann trotzdem sehr hilfreich sein <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Es gibt viel _reine_ Fleißarbeit
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+
+**Beispiel: LaTeX** <!-- .element: class="fragment fade-in" -->
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+**Beispiel: LaTeX**
+
+- Soll helfen _eure_ Ergebnisse zu digitalisieren
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Ein LLM ist schneller und (oft) besser darin <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Typesetting ist Mittel zum Zweck $\Rightarrow$ Kann man gut an KI outsourcen
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+
+**Wichtig:** <!-- .element: class="fragment fade-in" -->
+- Texte ausformulieren $\neq$ Formel in LaTeX Schreibweise bringen oder Formatierung <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+---
+
+**Beispiel: Simple Einmal-Skripte**
+
+- Bspw. _einmalig_ tausende Dateiformate ändern
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Ist schnell und effektiv <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Ineffiziente Lösungen kosten nicht konstant <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+**Auch hier:** <!-- .element: class="fragment fade-in" -->
+- Ab gewisser Komplexität muss man <!-- .element: class="fragment fade-in" -->
+  - Design Entscheidungen treffen <!-- .element: class="fragment fade-in" -->
+  - Nebeneffekte bedenken <!-- .element: class="fragment fade-in" -->
+
+---
+
+### Am Ende geht es auch um euch
