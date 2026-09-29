@@ -59,6 +59,11 @@ Auch hier: <!-- .element: class="fragment fade-in" -->
 
 **Die Art der KI Nutzung macht den Unterschied!** <!-- .element: class="fragment fade-in" -->
 
+Notes:
+- Eine Regel ohne Erklärung gezeigt. Wie beweist man die?
+- Fragt KI nach einem Ansatz oder 
+- Erstmal alleine probieren und dann von KI hier und da verifizieren lassen
+
 ---
 
 <!-- .slide: data-auto-animate="true" -->
@@ -89,6 +94,7 @@ Auch hier: <!-- .element: class="fragment fade-in" -->
 
 Notes:
 - Technische Info: Eine sehr schwere Klausur, die KI besteht
+- Häufig Aufgaben nur mit Mitteln aus den vorherigen VLs
 
 ---
 
