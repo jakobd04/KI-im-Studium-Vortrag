@@ -39,7 +39,8 @@ Notes:
 <!-- .slide: data-auto-animate="true" -->
 ### Neue Technik, alte Sorge
 
-- Platon (*Phaidros*): Die Schrift schwächt das Gedächtnis <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Platon (*Phaidros*): Die Schrift schwächt das Gedächtnis
+<!-- .element: class="fragment fade-in-then-semi-out" -->
 - Sie vermittelt den Schein von Weisheit, nicht die Sache selbst <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Gleiches Muster wie „die Jugend ist faul“ <!-- .element: class="fragment fade-in-then-semi-out" -->
 
@@ -55,8 +56,10 @@ Notes:
 ### Lernen ist nicht effizient
 
 - LLMs sind stark bei „Knowledge Work“ <!-- .element: class="fragment fade-in-then-semi-out" -->
-- **Lernen** lässt sich nicht effizient abkürzen <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Denken abnehmen lassen $\Rightarrow$ Lerneffekt fällt weg <!-- .element: class="fragment fade-in-then-semi-out" -->
+- **Lernen** lässt sich nicht effizient abkürzen
+<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Denken abnehmen lassen $\Rightarrow$ Lerneffekt fällt weg
+<!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Notes:
 - Bild: Nürnberger Trichter – Wissen lässt sich nicht einfach einfüllen
@@ -83,7 +86,8 @@ Notes:
 
 - Nach 6 Monaten: Abfall um ca. 25 % bei den monatlichen Klausuren <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Kein exponentieller Verfall, Einpendeln bei ca. 16 % <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Auch **neuer** Stoff wird schwerer angeeignet <!-- .element: class="fragment fade-in" -->
+- Auch **neuer** Stoff wird schwerer angeeignet
+<!-- .element: class="fragment fade-in" -->
 
 Notes:
 - Der Schaden zeigt sich akkumuliert, nicht sofort
@@ -95,7 +99,7 @@ Notes:
 <!-- .slide: data-auto-animate="true" -->
 ### Studie 2: Kosmyna et al. (2025)
 
-- EEG-Messung beim Essayschreiben, drei Gruppen: <!-- .element: class="fragment fade-in-then-semi-out" -->
+- EEG-Messung beim Essayschreiben, drei Gruppen:
   - ohne LLM: höchste neuronale Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
   - LLM nur zur Überprüfung: mittlere Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
   - Essay mit ChatGPT: deutlich niedrigste Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
@@ -113,7 +117,8 @@ Notes:
 
 - Lernen braucht intensive Auseinandersetzung <!-- .element: class="fragment fade-in-then-semi-out" -->
 - Sie trainiert auch Konzentration & Aufnahmefähigkeit <!-- .element: class="fragment fade-in-then-semi-out" -->
-- Beide Studien: Nicht KI ist das Problem, sondern **Outsourcing** <!-- .element: class="fragment fade-in" -->
+- Beide Studien: Nicht KI ist das Problem, sondern **Outsourcing**
+<!-- .element: class="fragment fade-in" -->
 
 Notes:
 - Bildungswissenschaftlich seit Langem bekannt, die Studien bestätigen es für LLMs
@@ -146,9 +151,9 @@ Notes:
 <!-- .slide: data-auto-animate="true" -->
 ### Wieso ein Studium?
 
-- Geld? <!-- .element: class="fragment semi-fade-out" data-fragment-index="1"-->
-- Prestige? <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="1" -->
-- Neugier? <!-- .element: class="fragment fade-in-then-semi-out" data-fragment-index="2" -->
+- Geld? <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Prestige? <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Neugier? <!-- .element: class="fragment fade-in-then-semi-out" -->
 
 Notes:
 - Finanzielle Gründe & Wunsch nach akademischem Prestige sind valide, aber:
@@ -343,4 +348,14 @@ Notes:
 
 ---
 
+<!-- .slide: data-auto-animate="true" -->
 ### Am Ende geht es auch um euch
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Am Ende geht es auch um euch
+
+- _Eure_ Ideen
+- _Eure_ Probleme, Fehler und Lösungen
+- _Eure_ Erfolge
