@@ -1,10 +1,142 @@
-# KI im Studium <!-- .slide: style="text-align: center" -->
+<!-- ============================================================
+     TEIL A: Einleitung – direkt nach der Titelfolie "KI im Studium"
+     ============================================================ -->
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Wer von euch hat schon KI genutzt?
+
+Notes:
+- Live-Umfrage per Handzeichen / Tool: „Wer hat schon ein LLM benutzt?“
+- Erwartung: Großteil des Jahrgangs, vermutlich schon im Abitur und davor
+- Bestätigt sich das, haben wir einen „Bildungsauftrag“
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Wer von euch hat schon KI genutzt?
+
+- Erwartung: fast alle <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Zweite Frage: Programmiererfahrung & Berührungspunkte mit Informatik <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+Notes:
+- Knapp ein viertel der Studenten von Hochschulen nutzt KI täglich (vergleich mit unserem „Datensatz“)
+- Zweite Umfrage ist wichtig für später: Wer Erfahrung hat, kann den Output kontrollieren
+- Übergang: „Wenn ohnehin fast alle KI nutzen, geht es nicht ob, sondern wie.“
+
+<!-- ============================================================
+     TEIL B: Lernpsychologie – ersetzt die bestehende Folie
+     "### Lernpsychologie" (danach weiter mit "Wieso ein Studium?")
+     ============================================================ -->
 
 ---
 
 ### Lernpsychologie
 
 ---
+
+<!-- .slide: data-auto-animate="true" -->
+### Neue Technik, alte Sorge
+
+- Platon (*Phaidros*): Die Schrift schwächt das Gedächtnis <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Sie vermittelt den Schein von Weisheit, nicht die Sache selbst <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Gleiches Muster wie „die Jugend ist faul“ <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+Notes:
+- Kurze Anekdote: Herrscher Thamus kritisiert die Erfindung des Erfinders Theuth
+- Ob Platon recht hatte, lassen wir offen
+- Nur die Botschaft: Sorge vor Verdummung durch neue Werkzeuge ist nicht neu
+- Deshalb ab hier: nicht Bauchgefühl, sondern Studien
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Lernen ist nicht effizient
+
+- LLMs sind stark bei „Knowledge Work“ <!-- .element: class="fragment fade-in-then-semi-out" -->
+- **Lernen** lässt sich nicht effizient abkürzen <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Denken abnehmen lassen $\Rightarrow$ Lerneffekt fällt weg <!-- .element: class="fragment fade-in-then-semi-out" -->
+
+Notes:
+- Bild: Nürnberger Trichter – Wissen lässt sich nicht einfach einfüllen
+- Effizienz bei Aufgaben ist nicht dasselbe wie Effizienz beim Lernen
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Studie 1: Strmberg et al. (2026)
+
+- Chinesische Schüler (Mittel- & Oberstufe) <!-- .element: class="fragment fade-in-then-semi-out" -->
+- „Outsourcing“: Aufgabe an LLM, Ergebnis ungeprüft abgeben <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Hausaufgaben: mehr Abgaben, weniger Bearbeitungszeit <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Aber: schlechtere Klausuren & Zulassungsexamen <!-- .element: class="fragment fade-in" -->
+
+Notes:
+- Wichtig: Es geht um blindes Übergeben, nicht um KI-Nutzung allgemein
+- Produktivität steigt scheinbar, der Preis kommt später
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Studie 1: Der Verlauf
+
+- Nach 6 Monaten: Abfall um ca. 25 % bei den monatlichen Klausuren <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Kein exponentieller Verfall, Einpendeln bei ca. 16 % <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Auch **neuer** Stoff wird schwerer angeeignet <!-- .element: class="fragment fade-in" -->
+
+Notes:
+- Der Schaden zeigt sich akkumuliert, nicht sofort
+- Nicht nur Erinnerung leidet, sondern die Fähigkeit, in Zukunft zu lernen
+- Verlorene Konzentrationsfähigkeit zurückzugewinnen dürfte mühsam sein
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Studie 2: Kosmyna et al. (2025)
+
+- EEG-Messung beim Essayschreiben, drei Gruppen: <!-- .element: class="fragment fade-in-then-semi-out" -->
+  - ohne LLM: höchste neuronale Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
+  - LLM nur zur Überprüfung: mittlere Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
+  - Essay mit ChatGPT: deutlich niedrigste Konnektivität <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Zitieren aus dem eigenen Essay: fast nie möglich <!-- .element: class="fragment fade-in" -->
+
+Notes:
+- Konnektivität = Austausch zwischen Neuronen, also Maß für die geistige Beteiligung
+- Die Reihenfolge ist der Kern: je früher das LLM einsetzt, desto weniger denkt man selbst
+- Zitieren-Können zeigt: Der Text wurde nie wirklich „verinnerlicht“
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Was folgt daraus?
+
+- Lernen braucht intensive Auseinandersetzung <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Sie trainiert auch Konzentration & Aufnahmefähigkeit <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Beide Studien: Nicht KI ist das Problem, sondern **Outsourcing** <!-- .element: class="fragment fade-in" -->
+
+Notes:
+- Bildungswissenschaftlich seit Langem bekannt, die Studien bestätigen es für LLMs
+- Überleitung zu „Wieso ein Studium?“: Was wollen wir eigentlich aus dem Studium mitnehmen?
+
+<!-- ============================================================
+     TEIL C: Mehrwert – vor "### Am Ende geht es auch um euch"
+     ============================================================ -->
+
+---
+
+<!-- .slide: data-auto-animate="true" -->
+### Welchen Mehrwert bringt ihr mit?
+
+- Aufgabenzettel in die KI kopieren… <!-- .element: class="fragment fade-in-then-semi-out" -->
+- …und im Job dann plötzlich anders arbeiten? <!-- .element: class="fragment fade-in-then-semi-out" -->
+- Wozu dann überhaupt studieren? <!-- .element: class="fragment fade-in" -->
+
+Notes:
+- Wer nur die KI bedient, ist austauschbar
+- Mehrwert: Output verstehen, prüfen (Verifikation & Validierung) und Nebeneffekte bedenken
+- Direkter Schluss zu „Am Ende geht es auch um euch“
+
 
 <!-- .slide: data-auto-animate="true" -->
 ### Wieso ein Studium?
